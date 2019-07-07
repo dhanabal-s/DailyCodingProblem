@@ -1,3 +1,3 @@
-#Daily Coding Problem
- Self-implemented Solution for https://dailycodingproblem.com/ for everyday.
+# Daily Coding Problem
+Self-implemented solution for https://dailycodingproblem.com every day.
  Each program File contains problem Details.
