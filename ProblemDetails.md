@@ -54,7 +54,7 @@ Implement car and cdr.
 
 --------
 
-### Problem 7
+### Problem 6
 
 This problem was asked by Google.
 
