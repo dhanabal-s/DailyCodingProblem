@@ -11,9 +11,6 @@ import java.io.InputStreamReader;
 import java.util.Scanner;
 public class DAY7 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
        try
        {
