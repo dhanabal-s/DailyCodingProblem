@@ -8,7 +8,7 @@
 
 -------
 
-- [x] Problem 1
+### Problem 1
 
 This problem was recently asked by Google.
 
@@ -17,7 +17,7 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
 -----
 
-### [x]Problem 2
+### Problem 2
 
 This problem was asked by Uber.
 
