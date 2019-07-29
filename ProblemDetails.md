@@ -8,7 +8,7 @@
 
 -------
 
-### - [x] Problem 1
+- [x] Problem 1
 
 This problem was recently asked by Google.
 
